@@ -50,7 +50,7 @@ En resumen, puedes pensar en Copilot como un compañero de trabajo muy especiali
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="sugerencia de texto sombreado de Copilot en el editor" src="../images/shadow-text.gif" />
+      <img width="700" alt="sugerencia de texto sombreado de Copilot en el editor" src="https://github.com/RARB54X/github-copilot-primeros-pasos/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. Presiona `Tab` para aceptar la sugerencia de Copilot y convertir el texto sombreado en código.
 
@@ -91,7 +91,7 @@ En proyectos nuevos, suele ser útil contar con datos ficticios realistas para h
 
 1. Resalta todo el diccionario `activities` haciendo clic y arrastrando el mouse desde el inicio hasta el final del diccionario. Esto ayudará a darle contexto a Copilot para nuestro siguiente prompt.
 
-   <img width="700" alt="Diccionario de actividades resaltado antes de abrir el inline chat" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="Diccionario de actividades resaltado antes de abrir el inline chat" src="https://github.com/RARB54X/github-copilot-primeros-pasos/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 
 1. Abre el inline chat de Copilot usando el atajo de teclado `Ctrl + I` (Windows) o `Cmd + I` (Mac).
@@ -188,7 +188,7 @@ En proyectos nuevos, suele ser útil contar con datos ficticios realistas para h
 
 1. Busca el archivo `app.py` y presiona el signo `+` para agrupar tus cambios en el área de staging.
 
-   ![imagen](../images/staging-changes-icon.png)
+   ![imagen](https://github.com/RARB54X/github-copilot-primeros-pasos/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. Encima de la lista de cambios preparados (staged), busca el cuadro de texto **Message**, pero **no escribas nada** por ahora.
    - Normalmente, escribirías aquí una breve descripción de los cambios, ¡pero ahora tenemos a Copilot para ayudarnos!

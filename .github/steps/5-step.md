@@ -29,11 +29,11 @@ Tanto los **resúmenes de pull request de Copilot** como la **revisión de códi
 
 1. (Opcional) En la barra de herramientas de la descripción del PR, haz clic en el ícono de **Copilot** y en la acción **Summary**. Después de un momento, Copilot agregará una descripción basada en tus cambios. :memo:
 
-   <img alt="Botón de resumen de Copilot" width="450px" src="../images/copilot-summarize-button.png">
+   <img alt="Botón de resumen de Copilot" width="450px" src="https://github.com/RARB54X/github-copilot-primeros-pasos/blob/main/.github/images/copilot-summarize-button.png?raw=true">
 
 1. (Opcional) En el panel de información del lado derecho, en la parte superior, ubica la sección **Reviewers** y haz clic en el botón **Request** junto al ícono de **Copilot**. Espera un momento a que Copilot agregue un comentario de revisión a tu pull request.
 
-   <img alt="Botón de revisión de Copilot" width="300px" src="../images/copilot-review-button.png">
+   <img alt="Botón de revisión de Copilot" width="300px" src="https://github.com/RARB54X/github-copilot-primeros-pasos/blob/main/.github/images/copilot-review-button.png?raw=true">
 
    > 💡 **Consejo:** Observa que aparece un registro indicando que se solicitó una revisión a Copilot.
 

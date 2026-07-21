@@ -30,7 +30,7 @@ Tu backend todavía no tiene ninguna cobertura de pruebas. Usa **Plan Agent** pa
 
 1. Abre el panel de **Copilot Chat** y cambia a **Plan Agent**.
 
-   <img width="350" alt="imagen" src="../images/plan-mode-dropdown.png" />
+   <img width="350" alt="imagen" src="https://github.com/RARB54X/github-copilot-primeros-pasos/blob/main/.github/images/plan-mode-dropdown.png?raw=true" />
 
 
 1. Comencemos con un prompt amplio y Copilot nos ayudará a completar los detalles:
@@ -64,7 +64,7 @@ Tu backend todavía no tiene ninguna cobertura de pruebas. Usa **Plan Agent** pa
 
 1. Revisa el plan propuesto y, cuando estés conforme con él, haz clic en **Start implementation** para entregarlo a **Agent Mode**.
 
-   <img width="350" alt="imagen" src="../images/plan-mode-start-implementation.png" />
+   <img width="350" alt="imagen" src="https://github.com/RARB54X/github-copilot-primeros-pasos/blob/main/.github/images/plan-mode-start-implementation.png?raw=true" />
 
    Nota cómo al hacer clic en el botón se cambió de **Plan** a **Agent Mode**. A partir de este punto, Copilot puede editar tu base de código, igual que antes.
 
